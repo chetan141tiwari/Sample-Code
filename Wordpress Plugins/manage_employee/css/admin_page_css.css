@@ -1,0 +1,28 @@
+#wpbody-content label{ width:155px; float:left;}
+
+#wpbody-content label em{ color:red;}
+
+#wpbody-content input[type="submit"] { padding:3px 15px;}
+
+#sms_api_form{  float: left;    margin: 15px;    width: 97%;}
+
+#wpbody-content label.error { float:none; padding:0 5px; }
+
+#wpbody-content h1{ float: left;
+    margin-bottom: 0;
+    margin-left: 15px;}
+	
+	
+
+#wpbody-content ul.success_message li, #wpbody-content .alert-success, #wpbody-content #message.success, #wpbody-content .success, #message.updated {
+    background-color: rgb(215, 246, 175);
+    border-color: rgb(142, 173, 101);
+    border-radius: 2px;
+    color: rgb(11, 96, 11);
+    display: inline-block;
+    font-size: 10pt;
+    list-style: none outside none;
+    margin: 0 0 20px 13px;
+    padding: 8px 26px 8px 14px;
+    width: 95.5%;
+}	
